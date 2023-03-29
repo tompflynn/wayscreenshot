@@ -17,7 +17,8 @@ otherwise, make the script executeable
 ```
 chmod +x wayscreenshot.nu
 ```
-and move it into your PATH
+and move it into your PATH<br><br>
+When you execute the script, your cursor should change shape, and you screen should lighten a bit. Select the area of the screen you want to capture, then paste the selection from your clipboard using ctrl+v.
 
 ## Resources
 
