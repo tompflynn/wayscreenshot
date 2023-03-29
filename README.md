@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Arch install
+Archlinux Installation
 ```
 yay -S grim-git
 sudo pacman -S slurp nushell wl-clipboard
@@ -20,7 +20,10 @@ otherwise, make the script executeable:
 chmod +x wayscreenshot.nu
 ```
 and move it into your PATH<br><br>
-When you execute the script, your cursor should change shape, and your screen should lighten a bit. <br>Select the area of the screen you want to capture, then paste the selection from your clipboard using ctrl+v.
+
+1. run the script
+2. select the area of the screen you want to capture
+3. paste the selection from your clipboard (ctrl+v)
 
 ## Resources
 
