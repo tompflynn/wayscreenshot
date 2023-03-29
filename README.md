@@ -17,7 +17,6 @@ if you're using hyprland, add something like this to your config:
 bind = $mainMod, S, exec, nu /path/to/script/wayscreenshot.nu
 ```
 
-<br>
 otherwise, just make the script executeable:
 
 ```
