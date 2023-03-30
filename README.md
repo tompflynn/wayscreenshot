@@ -33,3 +33,4 @@ and move it into your PATH<br><br>
 - https://github.com/emersion/slurp
 - https://sr.ht/~emersion/grim/
 - https://man.archlinux.org/man/community/wl-clipboard/wl-copy.1.en
+- https://www.nushell.sh/book/
